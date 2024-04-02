@@ -1,6 +1,7 @@
 #!/bin/bash
-GROG_PATH="./grog"
+GROG_PATH=./grog
 rm -rdf ./out
-$($GROG_PATH)
+chmod +x $GROG_PATH
+$GROG_PATH
 mv ./out/* .
 rm -rdf ./out
