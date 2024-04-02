@@ -3,8 +3,6 @@ description = """
 Student & programmer. 
 I like making things. More specifically, simple, safe, and fast things.
 
-My code is on [GitHub](https://github.com/malcjones)
-
 ## Projects
 - {go} [grog](https://github.com/malcjones/grog) - very small, very inflexible static site generator
 - {rust} [nyx](https://github.com/malcjones/nyx) - small & shell-like app/experiment platform
