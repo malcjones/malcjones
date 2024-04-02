@@ -1,0 +1,1 @@
+This blog is generated with [grog](https://github.com/malcjones/grog).
