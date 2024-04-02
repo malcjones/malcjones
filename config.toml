@@ -8,6 +8,7 @@ My code is on [GitHub](https://github.com/malcjones)
 ## Projects
 - {go} [grog](https://github.com/malcjones/grog) - very small, very inflexible static site generator
 - {rust} [nyx](https://github.com/malcjones/nyx) - small & shell-like app/experiment platform
+- {rust} [lice](https://github.com/malcjones/lice) - quickly generate licenses for your projects
 - {rust} [dollar](https://github.com/malcjones/dollar) - open `sh` with a dollar as the prompt, for privacy
 - {rust} [rendoc](https://github.com/malcjones/rendoc) - render markdown to html, with a focus on simplicity
 - [others...](https://github.com/malcjones?tab=repositories)
