@@ -1,0 +1,1 @@
+This site was generated with [Rust](https://rust-lang.org)!
